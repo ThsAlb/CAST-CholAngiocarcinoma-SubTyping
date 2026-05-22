@@ -1,5 +1,3 @@
-> **Note (May 2026):** This repository is actively maintained and has been updated for the resubmission of our manuscript.
-
 ![CAST](CAST.jpeg)
 
 
